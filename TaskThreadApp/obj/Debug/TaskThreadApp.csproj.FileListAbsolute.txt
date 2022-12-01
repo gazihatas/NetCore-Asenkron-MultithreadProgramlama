@@ -1,0 +1,11 @@
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.csproj.AssemblyReference.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.Form1.resources
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.Properties.Resources.resources
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.csproj.GenerateResource.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.csproj.CoreCompileInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskThreadApp\bin\Debug\TaskThreadApp.exe.config
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskThreadApp\bin\Debug\TaskThreadApp.exe
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskThreadApp\bin\Debug\TaskThreadApp.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.exe
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskThreadApp\obj\Debug\TaskThreadApp.pdb
