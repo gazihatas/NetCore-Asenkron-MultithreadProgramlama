@@ -1,0 +1,55 @@
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Main Thread: " + Thread.CurrentThread.ManagedThreadId);
+List<string> urlsList = new List<string>()
+{
+    "https://google.com",
+    "https://microsoft.com",
+    "https://amazon.com",
+    "https://m11.com",
+    "https://haberturk.com",
+    "https://facebook.com"
+};
+
+List<Task<Content>> taskList = new List<Task<Content>>();
+
+
+urlsList.ToList().ForEach(x =>
+{
+    taskList.Add(GetContentAsync(x));
+});
+Console.WriteLine("Delay metodundan Önce");
+
+var contents = await Task.WhenAll(taskList.ToArray());
+
+contents.ToList().ForEach(x =>
+{
+    Console.WriteLine(x.Site);
+});
+
+static async Task<Content> GetContentAsync(string url)
+{
+    Content c = new Content();
+    var data = await new HttpClient().GetStringAsync(url);
+
+    //Delay metodu Aasenkron olarak gecikme sağlar ve thread'e bloklama yapmaz.
+    await Task.Delay(5000);
+
+    //Güncel Thread i verilen süreyi askıya alaır ve senkron olarak çalışır
+    //Thread.Sleep();
+    
+
+    c.Site = url;
+    c.Len = data.Length;
+    Console.WriteLine("GetContentAsync thread:" + Thread.CurrentThread.ManagedThreadId);
+    return c;
+}
+
+var FirstData = await Task.WhenAny(taskList);
+
+Console.WriteLine($"{FirstData.Result.Site} - {FirstData.Result.Len}");
+
+public class Content
+{
+    public string Site { get; set; }
+    public int Len { get; set; }
+}

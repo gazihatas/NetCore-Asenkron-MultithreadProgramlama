@@ -1,0 +1,15 @@
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\bin\Debug\net6.0\Delay.exe
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\bin\Debug\net6.0\Delay.deps.json
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\bin\Debug\net6.0\Delay.runtimeconfig.json
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\bin\Debug\net6.0\Delay.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\bin\Debug\net6.0\Delay.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\obj\Debug\net6.0\Delay.csproj.AssemblyReference.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\obj\Debug\net6.0\Delay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\obj\Debug\net6.0\Delay.AssemblyInfoInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\obj\Debug\net6.0\Delay.AssemblyInfo.cs
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\obj\Debug\net6.0\Delay.csproj.CoreCompileInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\obj\Debug\net6.0\Delay.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\obj\Debug\net6.0\refint\Delay.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\obj\Debug\net6.0\Delay.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\obj\Debug\net6.0\Delay.genruntimeconfig.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\Delay\obj\Debug\net6.0\ref\Delay.dll
