@@ -1,0 +1,15 @@
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\bin\Debug\net6.0\ConsoleAppWaitAll.exe
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\bin\Debug\net6.0\ConsoleAppWaitAll.deps.json
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\bin\Debug\net6.0\ConsoleAppWaitAll.runtimeconfig.json
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\bin\Debug\net6.0\ConsoleAppWaitAll.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\bin\Debug\net6.0\ConsoleAppWaitAll.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\obj\Debug\net6.0\ConsoleAppWaitAll.csproj.AssemblyReference.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\obj\Debug\net6.0\ConsoleAppWaitAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\obj\Debug\net6.0\ConsoleAppWaitAll.AssemblyInfoInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\obj\Debug\net6.0\ConsoleAppWaitAll.AssemblyInfo.cs
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\obj\Debug\net6.0\ConsoleAppWaitAll.csproj.CoreCompileInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\obj\Debug\net6.0\ConsoleAppWaitAll.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\obj\Debug\net6.0\refint\ConsoleAppWaitAll.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\obj\Debug\net6.0\ConsoleAppWaitAll.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\obj\Debug\net6.0\ConsoleAppWaitAll.genruntimeconfig.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWaitAll\obj\Debug\net6.0\ref\ConsoleAppWaitAll.dll

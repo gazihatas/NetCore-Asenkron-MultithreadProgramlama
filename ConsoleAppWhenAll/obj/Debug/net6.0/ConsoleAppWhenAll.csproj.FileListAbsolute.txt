@@ -1,0 +1,15 @@
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\bin\Debug\net6.0\ConsoleAppWhenAll.exe
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\bin\Debug\net6.0\ConsoleAppWhenAll.deps.json
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\bin\Debug\net6.0\ConsoleAppWhenAll.runtimeconfig.json
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\bin\Debug\net6.0\ConsoleAppWhenAll.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\bin\Debug\net6.0\ConsoleAppWhenAll.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\obj\Debug\net6.0\ConsoleAppWhenAll.csproj.AssemblyReference.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\obj\Debug\net6.0\ConsoleAppWhenAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\obj\Debug\net6.0\ConsoleAppWhenAll.AssemblyInfoInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\obj\Debug\net6.0\ConsoleAppWhenAll.AssemblyInfo.cs
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\obj\Debug\net6.0\ConsoleAppWhenAll.csproj.CoreCompileInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\obj\Debug\net6.0\ConsoleAppWhenAll.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\obj\Debug\net6.0\refint\ConsoleAppWhenAll.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\obj\Debug\net6.0\ConsoleAppWhenAll.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\obj\Debug\net6.0\ConsoleAppWhenAll.genruntimeconfig.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ConsoleAppWhenAll\obj\Debug\net6.0\ref\ConsoleAppWhenAll.dll

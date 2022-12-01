@@ -1,0 +1,15 @@
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\bin\Debug\net6.0\TaskConsoleApp.exe
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\bin\Debug\net6.0\TaskConsoleApp.deps.json
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\bin\Debug\net6.0\TaskConsoleApp.runtimeconfig.json
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\bin\Debug\net6.0\TaskConsoleApp.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\bin\Debug\net6.0\TaskConsoleApp.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\obj\Debug\net6.0\TaskConsoleApp.csproj.AssemblyReference.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\obj\Debug\net6.0\TaskConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\obj\Debug\net6.0\TaskConsoleApp.AssemblyInfoInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\obj\Debug\net6.0\TaskConsoleApp.AssemblyInfo.cs
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\obj\Debug\net6.0\TaskConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\obj\Debug\net6.0\TaskConsoleApp.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\obj\Debug\net6.0\refint\TaskConsoleApp.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\obj\Debug\net6.0\TaskConsoleApp.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\obj\Debug\net6.0\TaskConsoleApp.genruntimeconfig.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskConsoleApp\obj\Debug\net6.0\ref\TaskConsoleApp.dll

@@ -1,0 +1,15 @@
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\bin\Debug\net6.0\WaitAny.exe
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\bin\Debug\net6.0\WaitAny.deps.json
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\bin\Debug\net6.0\WaitAny.runtimeconfig.json
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\bin\Debug\net6.0\WaitAny.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\bin\Debug\net6.0\WaitAny.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\obj\Debug\net6.0\WaitAny.csproj.AssemblyReference.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\obj\Debug\net6.0\WaitAny.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\obj\Debug\net6.0\WaitAny.AssemblyInfoInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\obj\Debug\net6.0\WaitAny.AssemblyInfo.cs
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\obj\Debug\net6.0\WaitAny.csproj.CoreCompileInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\obj\Debug\net6.0\WaitAny.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\obj\Debug\net6.0\refint\WaitAny.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\obj\Debug\net6.0\WaitAny.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\obj\Debug\net6.0\WaitAny.genruntimeconfig.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\WaitAny\obj\Debug\net6.0\ref\WaitAny.dll
