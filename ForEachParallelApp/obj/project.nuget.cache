@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "py2y5F/BQq6caaM6xo1An99TqIrYIh5q9gmwadT9LYRO+cIG8YeQROzONl8z2O8t8cmqH/DvPr9tPJIMK480+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lion\\source\\repos\\AsenkronMultiThread\\ForEachParallelApp\\ForEachParallelApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lion\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
