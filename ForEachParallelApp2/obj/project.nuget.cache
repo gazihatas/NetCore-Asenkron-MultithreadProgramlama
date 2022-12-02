@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZRMfYHgJUlnkGRE1VTlTUJjZf9yYwcHnJAazgxqRId4DgbZsc3ukWzhal8hn8Z56kZgen/k7XL6hum+nlsDNww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lion\\source\\repos\\AsenkronMultiThread\\ForEachParallelApp2\\ForEachParallelApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lion\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\lion\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\lion\\.nuget\\packages\\system.drawing.common\\5.0.3\\system.drawing.common.5.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

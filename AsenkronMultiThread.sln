@@ -35,6 +35,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTask", "ValueTask\Valu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachParallelApp", "ForEachParallelApp\ForEachParallelApp.csproj", "{0F7446CC-7F79-446A-A973-B72DDC3016C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForEachParallelApp2", "ForEachParallelApp2\ForEachParallelApp2.csproj", "{AB4CD1F7-6A0B-4A33-9281-B5F0BB6E8CAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -105,6 +107,10 @@ Global
 		{0F7446CC-7F79-446A-A973-B72DDC3016C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F7446CC-7F79-446A-A973-B72DDC3016C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F7446CC-7F79-446A-A973-B72DDC3016C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB4CD1F7-6A0B-4A33-9281-B5F0BB6E8CAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB4CD1F7-6A0B-4A33-9281-B5F0BB6E8CAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB4CD1F7-6A0B-4A33-9281-B5F0BB6E8CAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB4CD1F7-6A0B-4A33-9281-B5F0BB6E8CAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
