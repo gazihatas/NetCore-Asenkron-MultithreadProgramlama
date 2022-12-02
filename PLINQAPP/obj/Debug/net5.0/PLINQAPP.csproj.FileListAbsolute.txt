@@ -1,0 +1,16 @@
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\bin\Debug\net5.0\PLINQAPP.exe
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\bin\Debug\net5.0\PLINQAPP.deps.json
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\bin\Debug\net5.0\PLINQAPP.runtimeconfig.json
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\bin\Debug\net5.0\PLINQAPP.runtimeconfig.dev.json
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\bin\Debug\net5.0\PLINQAPP.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\bin\Debug\net5.0\PLINQAPP.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\obj\Debug\net5.0\PLINQAPP.csproj.AssemblyReference.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\obj\Debug\net5.0\PLINQAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\obj\Debug\net5.0\PLINQAPP.AssemblyInfoInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\obj\Debug\net5.0\PLINQAPP.AssemblyInfo.cs
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\obj\Debug\net5.0\PLINQAPP.csproj.CoreCompileInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\obj\Debug\net5.0\PLINQAPP.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\obj\Debug\net5.0\refint\PLINQAPP.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\obj\Debug\net5.0\PLINQAPP.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\obj\Debug\net5.0\PLINQAPP.genruntimeconfig.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\PLINQAPP\obj\Debug\net5.0\ref\PLINQAPP.dll
