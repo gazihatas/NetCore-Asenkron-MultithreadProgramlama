@@ -25,11 +25,11 @@ namespace PLINQDatabaseFirst
             //var product = (from p in context.Products.AsParallel()
             //               where p.ListPrice > 10M
             //               select p).Take(10);
-             context.Products.AsParallel().ForAll(p=>
+             context.Products.AsParallel().WithExecutionMode(ParallelExecutionMode.ForceParallelism).ForAll(p=>
              {
                  
                WriteLog(p);  
-             });
+             }); 
 
             //product.ToList().ForEach(x =>
             //{
