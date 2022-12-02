@@ -61,8 +61,8 @@ namespace ParallelForForEachCancellationApp
 
                         string data = $"{url}: {content.Length}";
 
-                        ct.Token.ThrowIfCancellationRequested();
-
+                        //ct.Token.ThrowIfCancellationRequested();
+                        parallelOptions.CancellationToken.ThrowIfCancellationRequested();
                         listBox1.Invoke((MethodInvoker)delegate { listBox1.Items.Add(data); });
                     });
                 }
