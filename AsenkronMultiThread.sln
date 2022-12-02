@@ -51,6 +51,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ForAll", "ForAll\ForAll.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PLINQDatabaseFirst", "PLINQDatabaseFirst\PLINQDatabaseFirst.csproj", "{BA9F2286-B2F9-402C-809F-302CE01DFBA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlinqFormApp", "PlinqFormApp\PlinqFormApp.csproj", "{DECA6AD5-823E-4CD8-9C0F-2608BE289D45}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -153,6 +155,10 @@ Global
 		{BA9F2286-B2F9-402C-809F-302CE01DFBA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA9F2286-B2F9-402C-809F-302CE01DFBA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA9F2286-B2F9-402C-809F-302CE01DFBA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DECA6AD5-823E-4CD8-9C0F-2608BE289D45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DECA6AD5-823E-4CD8-9C0F-2608BE289D45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DECA6AD5-823E-4CD8-9C0F-2608BE289D45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DECA6AD5-823E-4CD8-9C0F-2608BE289D45}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
