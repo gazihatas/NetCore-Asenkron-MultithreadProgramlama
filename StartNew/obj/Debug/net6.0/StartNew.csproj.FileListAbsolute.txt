@@ -1,0 +1,15 @@
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\bin\Debug\net6.0\StartNew.exe
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\bin\Debug\net6.0\StartNew.deps.json
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\bin\Debug\net6.0\StartNew.runtimeconfig.json
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\bin\Debug\net6.0\StartNew.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\bin\Debug\net6.0\StartNew.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\obj\Debug\net6.0\StartNew.csproj.AssemblyReference.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\obj\Debug\net6.0\StartNew.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\obj\Debug\net6.0\StartNew.AssemblyInfoInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\obj\Debug\net6.0\StartNew.AssemblyInfo.cs
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\obj\Debug\net6.0\StartNew.csproj.CoreCompileInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\obj\Debug\net6.0\StartNew.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\obj\Debug\net6.0\refint\StartNew.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\obj\Debug\net6.0\StartNew.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\obj\Debug\net6.0\StartNew.genruntimeconfig.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\StartNew\obj\Debug\net6.0\ref\StartNew.dll

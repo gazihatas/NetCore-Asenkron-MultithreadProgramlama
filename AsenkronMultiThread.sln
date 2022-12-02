@@ -17,11 +17,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppWaitAll", "Consol
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaitAny()", "WaitAny()\WaitAny().csproj", "{813C7A37-FD00-4ED4-AA22-FEF2A4B6290A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WaitAny", "WaitAny\WaitAny.csproj", "{4E65A6ED-60B8-4459-90F5-C3D5A4A1A9F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WaitAny", "WaitAny\WaitAny.csproj", "{4E65A6ED-60B8-4459-90F5-C3D5A4A1A9F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delay", "Delay\Delay.csproj", "{27B741A6-3C0A-409E-91EF-C377240D9A48}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delay", "Delay\Delay.csproj", "{27B741A6-3C0A-409E-91EF-C377240D9A48}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskThreadApp", "TaskThreadApp\TaskThreadApp.csproj", "{9B462230-B594-4270-A6BC-1C095E0665FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StartNew", "StartNew\StartNew.csproj", "{9CC6E661-C438-4837-86B2-EDB8E3A60D73}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{9B462230-B594-4270-A6BC-1C095E0665FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B462230-B594-4270-A6BC-1C095E0665FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B462230-B594-4270-A6BC-1C095E0665FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CC6E661-C438-4837-86B2-EDB8E3A60D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CC6E661-C438-4837-86B2-EDB8E3A60D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CC6E661-C438-4837-86B2-EDB8E3A60D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CC6E661-C438-4837-86B2-EDB8E3A60D73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
