@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TaskInstanceResultProperty/1.0.0": {
+        "runtime": {
+          "TaskInstanceResultProperty.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TaskInstanceResultProperty/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

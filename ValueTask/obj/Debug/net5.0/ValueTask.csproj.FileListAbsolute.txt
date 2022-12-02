@@ -1,0 +1,16 @@
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\bin\Debug\net5.0\ValueTask.exe
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\bin\Debug\net5.0\ValueTask.deps.json
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\bin\Debug\net5.0\ValueTask.runtimeconfig.json
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\bin\Debug\net5.0\ValueTask.runtimeconfig.dev.json
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\bin\Debug\net5.0\ValueTask.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\bin\Debug\net5.0\ValueTask.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\obj\Debug\net5.0\ValueTask.csproj.AssemblyReference.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\obj\Debug\net5.0\ValueTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\obj\Debug\net5.0\ValueTask.AssemblyInfoInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\obj\Debug\net5.0\ValueTask.AssemblyInfo.cs
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\obj\Debug\net5.0\ValueTask.csproj.CoreCompileInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\obj\Debug\net5.0\ValueTask.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\obj\Debug\net5.0\refint\ValueTask.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\obj\Debug\net5.0\ValueTask.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\obj\Debug\net5.0\ValueTask.genruntimeconfig.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ValueTask\obj\Debug\net5.0\ref\ValueTask.dll

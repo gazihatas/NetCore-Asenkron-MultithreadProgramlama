@@ -1,0 +1,16 @@
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\bin\Debug\net5.0\ParallelFor-ForEach-Thread-LocalVariables.exe
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\bin\Debug\net5.0\ParallelFor-ForEach-Thread-LocalVariables.deps.json
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\bin\Debug\net5.0\ParallelFor-ForEach-Thread-LocalVariables.runtimeconfig.json
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\bin\Debug\net5.0\ParallelFor-ForEach-Thread-LocalVariables.runtimeconfig.dev.json
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\bin\Debug\net5.0\ParallelFor-ForEach-Thread-LocalVariables.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\bin\Debug\net5.0\ParallelFor-ForEach-Thread-LocalVariables.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\obj\Debug\net5.0\ParallelFor-ForEach-Thread-LocalVariables.csproj.AssemblyReference.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\obj\Debug\net5.0\ParallelFor-ForEach-Thread-LocalVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\obj\Debug\net5.0\ParallelFor-ForEach-Thread-LocalVariables.AssemblyInfoInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\obj\Debug\net5.0\ParallelFor-ForEach-Thread-LocalVariables.AssemblyInfo.cs
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\obj\Debug\net5.0\ParallelFor-ForEach-Thread-LocalVariables.csproj.CoreCompileInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\obj\Debug\net5.0\ParallelFor-ForEach-Thread-LocalVariables.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\obj\Debug\net5.0\refint\ParallelFor-ForEach-Thread-LocalVariables.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\obj\Debug\net5.0\ParallelFor-ForEach-Thread-LocalVariables.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\obj\Debug\net5.0\ParallelFor-ForEach-Thread-LocalVariables.genruntimeconfig.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ParallelFor-ForEach-Thread-LocalVariables\obj\Debug\net5.0\ref\ParallelFor-ForEach-Thread-LocalVariables.dll

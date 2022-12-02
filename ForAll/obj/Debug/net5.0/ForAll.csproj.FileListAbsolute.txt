@@ -1,0 +1,16 @@
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\bin\Debug\net5.0\ForAll.exe
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\bin\Debug\net5.0\ForAll.deps.json
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\bin\Debug\net5.0\ForAll.runtimeconfig.json
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\bin\Debug\net5.0\ForAll.runtimeconfig.dev.json
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\bin\Debug\net5.0\ForAll.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\bin\Debug\net5.0\ForAll.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\obj\Debug\net5.0\ForAll.csproj.AssemblyReference.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\obj\Debug\net5.0\ForAll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\obj\Debug\net5.0\ForAll.AssemblyInfoInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\obj\Debug\net5.0\ForAll.AssemblyInfo.cs
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\obj\Debug\net5.0\ForAll.csproj.CoreCompileInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\obj\Debug\net5.0\ForAll.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\obj\Debug\net5.0\refint\ForAll.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\obj\Debug\net5.0\ForAll.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\obj\Debug\net5.0\ForAll.genruntimeconfig.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\ForAll\obj\Debug\net5.0\ref\ForAll.dll

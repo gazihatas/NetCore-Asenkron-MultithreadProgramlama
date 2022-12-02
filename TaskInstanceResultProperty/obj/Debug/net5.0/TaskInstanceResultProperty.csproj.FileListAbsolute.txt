@@ -1,0 +1,16 @@
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\bin\Debug\net5.0\TaskInstanceResultProperty.exe
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\bin\Debug\net5.0\TaskInstanceResultProperty.deps.json
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\bin\Debug\net5.0\TaskInstanceResultProperty.runtimeconfig.json
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\bin\Debug\net5.0\TaskInstanceResultProperty.runtimeconfig.dev.json
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\bin\Debug\net5.0\TaskInstanceResultProperty.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\bin\Debug\net5.0\TaskInstanceResultProperty.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\obj\Debug\net5.0\TaskInstanceResultProperty.csproj.AssemblyReference.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\obj\Debug\net5.0\TaskInstanceResultProperty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\obj\Debug\net5.0\TaskInstanceResultProperty.AssemblyInfoInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\obj\Debug\net5.0\TaskInstanceResultProperty.AssemblyInfo.cs
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\obj\Debug\net5.0\TaskInstanceResultProperty.csproj.CoreCompileInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\obj\Debug\net5.0\TaskInstanceResultProperty.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\obj\Debug\net5.0\refint\TaskInstanceResultProperty.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\obj\Debug\net5.0\TaskInstanceResultProperty.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\obj\Debug\net5.0\TaskInstanceResultProperty.genruntimeconfig.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\TaskInstanceResultProperty\obj\Debug\net5.0\ref\TaskInstanceResultProperty.dll

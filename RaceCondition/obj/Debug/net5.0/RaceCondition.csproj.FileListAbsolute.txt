@@ -1,0 +1,16 @@
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\bin\Debug\net5.0\RaceCondition.exe
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\bin\Debug\net5.0\RaceCondition.deps.json
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\bin\Debug\net5.0\RaceCondition.runtimeconfig.json
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\bin\Debug\net5.0\RaceCondition.runtimeconfig.dev.json
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\bin\Debug\net5.0\RaceCondition.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\bin\Debug\net5.0\RaceCondition.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\obj\Debug\net5.0\RaceCondition.csproj.AssemblyReference.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\obj\Debug\net5.0\RaceCondition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\obj\Debug\net5.0\RaceCondition.AssemblyInfoInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\obj\Debug\net5.0\RaceCondition.AssemblyInfo.cs
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\obj\Debug\net5.0\RaceCondition.csproj.CoreCompileInputs.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\obj\Debug\net5.0\RaceCondition.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\obj\Debug\net5.0\refint\RaceCondition.dll
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\obj\Debug\net5.0\RaceCondition.pdb
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\obj\Debug\net5.0\RaceCondition.genruntimeconfig.cache
+C:\Users\lion\source\repos\AsenkronMultiThread\RaceCondition\obj\Debug\net5.0\ref\RaceCondition.dll
