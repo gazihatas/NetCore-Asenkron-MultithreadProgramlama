@@ -10,6 +10,7 @@ namespace TaskWebApp.API.Controllers
         [HttpGet]
         public async Task<IActionResult> GetContentAsync()
         {
+            Thread.Sleep(5000);
             var mytask = new HttpClient().GetStringAsync("https://www.google.com");
 
             var data = await mytask;
